@@ -1,1 +1,1 @@
-##HTML, CSS and Javascript projects
+## HTML, CSS and Javascript projects
